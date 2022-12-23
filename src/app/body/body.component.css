@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+    justify-content: center;
+}
+
+span{
+    color: black;
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.card-header{
+    font-size: 20px;
+}
+
+.box{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    width: 286px;
+    height: 325px;
+}
